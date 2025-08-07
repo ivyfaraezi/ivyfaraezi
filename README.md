@@ -11,7 +11,7 @@
 
 <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="250" alt="Unicorn" />
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me 🤝
 
 <a href="https://github.com/ivyfaraezi">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
@@ -24,7 +24,7 @@
 </a>
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools 🛠️
 
 <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,cs,dotnet,py,html,css,js,tailwind,react,vue,nextjs,angular"/>
@@ -33,14 +33,14 @@
 
 
 
-## 🏆 Trophies
+## 🏆 Trophies v
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=ivyfaraezi&no-frame=true" alt="ivyfaraezi" />
 </a>
 
 
-## ⚡ Stats
+## ⚡ Stats ⚡
 
 <img height="170" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ivyfaraezi&count_private=true&theme=react" alt="streak stats"/>
 <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=ivyfaraezi&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" />
