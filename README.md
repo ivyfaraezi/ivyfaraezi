@@ -31,16 +31,13 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,bootstrap,ts,anaconda,oracle,mysql,vscode,visualstudio,github,git,figma,matlab"/>
 </p>
 
+## 🏆 Trophies 🏆
 
-
-## 🏆 Trophies v
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivyfaraezi&no-frame=true" alt="ivyfaraezi" />
-</a>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ivyfaraezi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⚡ Stats ⚡
+
+[![Ivy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ivyfaraezi&theme=rogue&radius=16&height=350)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img height="170" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ivyfaraezi&count_private=true&theme=react" alt="streak stats"/>
 <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=ivyfaraezi&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" />
@@ -48,3 +45,5 @@
 <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ivyfaraezi&langs_count=8&layout=compact&theme=react&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
+
+
