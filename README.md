@@ -7,28 +7,26 @@
 
 ## Hi 👋, I'm NUSRAT FARAEZI IVY
 
-### Student | Undergraduate Researcher | Technical Content Writer
+### Student | Undergraduate Researcher
+
+#### A student at American International University-Bangladesh. Currently diving into the world of technology and striving to make a mark in the coding universe.
+
+---
 
 <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="250" alt="Unicorn" />
 
 ## 🤝 Connect with Me 🤝
 
-<a href="https://github.com/ivyfaraezi">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
-</a>
-<a href="https://fb.com/ivy.faraezi">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook"/>
-</a>
-<a href="https://instagram.com/ivy.faraezi">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/>
-</a>
-
+<a href="https://fb.com/ivy.faraezi"><img src="https://go-skill-icons.vercel.app/api/icons?i=facebook"/></a>
+<a href="https://instagram.com/ivy.faraezi"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram"/></a>
 
 ## 🛠️ Languages & Tools 🛠️
 
 <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,cs,dotnet,py,html,css,js,tailwind,react,vue,nextjs,angular"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,bootstrap,ts,anaconda,oracle,mysql,vscode,visualstudio,github,git,figma,matlab"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,cs,py,html,css,js,ts,matlab"/><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,tailwind,react,vue,nextjs,angular,bootstrap,nodejs,jupyter"/><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,vscode,visualstudio,notepadpp,git,github,gitbash,figma"/><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,mysql,sqlserver"/>
 </p>
 
 ## 🏆 Trophies 🏆
@@ -41,7 +39,6 @@
 
 <img height="170" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ivyfaraezi&count_private=true&theme=react" alt="streak stats"/>
 <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=ivyfaraezi&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" />
-
 <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ivyfaraezi&langs_count=8&layout=compact&theme=react&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
